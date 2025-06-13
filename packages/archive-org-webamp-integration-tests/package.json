@@ -6,6 +6,6 @@
   "license": "MIT",
   "prettier": {},
   "dependencies": {
-    "puppeteer": "^3.0.4"
+    "puppeteer": "^22.8.2"
   }
 }
