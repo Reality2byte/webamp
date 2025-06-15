@@ -34,7 +34,7 @@
     "puppeteer": "^14.1.1",
     "snowpack": "^3.8.8",
     "ts-jest": "^28.0.2",
-    "tsup": "^4.12.5",
+    "tsup": "^8.3.5",
     "typescript": "^5.3.3"
   },
   "prettier": {},
