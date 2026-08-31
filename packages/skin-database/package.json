@@ -20,7 +20,7 @@
     "graphql": "^16.8.1",
     "graphql-http": "^1.22.1",
     "graphql-yoga": "^5.10.10",
-    "imagemin": "^7.0.0",
+    "imagemin": "^8.0.0",
     "imagemin-optipng": "^7.0.0",
     "jszip": "^3.10.1",
     "knex": "^0.21.1",
